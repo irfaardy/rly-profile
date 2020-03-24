@@ -1,6 +1,6 @@
 # rly-profile
 
-this is the site were will show up my portfolio and the jobs history as a programmer. i'm using laravel and reactjs to build this site.
+This is the site were will show up my portfolio and the jobs history as a programmer. i'm using laravel and reactjs to build this site.
 
 ## Getting Started
 
